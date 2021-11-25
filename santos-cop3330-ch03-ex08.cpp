@@ -1,6 +1,7 @@
-// santos-cop3330-ch03-ex08.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+/*
+ *  UCF COP3330 Fall 2021 Assignment 5 Solution
+ *  Copyright 2021 Ernesto Santos
+ */
 #include <iostream>
 using namespace std;
 
